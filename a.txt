@@ -5,3 +5,4 @@ add username
 modify user.name as siyue
 git is a distributed version control system
 linus is my idol
+create a new branch is quick and simpke
