@@ -4,3 +4,4 @@ git is a free software
 add username
 modify user.name as siyue
 git is a distributed version control system
+linus is my idol
